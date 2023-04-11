@@ -2,7 +2,8 @@
 
 
 
-![imagen](https://user-images.githubusercontent.com/115747640/231031038-4aca574b-302b-41a2-8fac-85a552cbe349.jpeg)
+![imagen](https://user-images.githubusercontent.com/115747640/231031847-193b9f68-1806-4cc3-b007-0ecfb9f6d170.jpeg)
+
 
 ```javascript
 
