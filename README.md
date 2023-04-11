@@ -6,6 +6,13 @@
 
 
 <p><em>Studied engineering in <a href="https://www.unc.edu.pe/">National University of Cajamarca</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Study programming in <a href="https://ucontinental.edu.pe/">University Continental</a>
+<p><em>Study programming in <a href="https://platzi.com/">Platzi</a>
+
+
+[![Twitter: manologc_salsa](https://img.shields.io/twitter/follow/manologc_salsa?style=social)](https://twitter.com/manologc_salsa)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Manuel-GarCer](https://img.shields.io/github/followers/Manuel-GarCer?label=follow&style=social)](https://github.com/Manuel-GarCer)
 
 ```javascript
 
@@ -16,8 +23,8 @@ const nolo = {
     tools: [Django, Node],
  }
 ```
-You can find me:
-- [Twitter](https://twitter.com/manologc_salsa)
+
+You can also find me at:
 - [Youtube](https://youtube.com/manoloache)
 - [Instagram](https://instagram.com/manolo_gc_salsa)
 - [Facebook](https://facebook.com/manolo_ache)
