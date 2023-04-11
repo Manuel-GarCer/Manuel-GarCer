@@ -10,10 +10,10 @@ const nolo = {
  }
 ```
 You can find me:
-- [Twitter] (https://twitter.com/manologc_salsa)
-- [Youtube] (https://youtube.com/manoloache)
-- [Instagram] (https://instagram.com/manolo_gc_salsa)
-- [Facebook] (https://facebook.com/manolo_ache)
+- [Twitter](https://twitter.com/manologc_salsa)
+- [Youtube](https://youtube.com/manoloache)
+- [Instagram](https://instagram.com/manolo_gc_salsa)
+- [Facebook](https://facebook.com/manolo_ache)
 
 
 
