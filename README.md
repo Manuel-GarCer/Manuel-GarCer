@@ -13,7 +13,9 @@
 [![Twitter: manologc_salsa](https://img.shields.io/twitter/follow/manologc_salsa?style=social)](https://twitter.com/manologc_salsa)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Manuel-GarCer](https://img.shields.io/github/followers/Manuel-GarCer?label=follow&style=social)](https://github.com/Manuel-GarCer)
-
+    
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+    
 ```javascript
 
 const nolo = {
